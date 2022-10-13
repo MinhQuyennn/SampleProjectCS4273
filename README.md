@@ -2,9 +2,7 @@
 
 Participants:
 
-- Leader: [Name - ID]
-- Member: [Name - ID]
-- Member: [Name - ID]
+- Member: [Pham Ha Minh Quyen - 20521824]
 
 
 Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
